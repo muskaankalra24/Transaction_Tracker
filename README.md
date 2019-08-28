@@ -38,6 +38,7 @@ Technologies used:
 -----------------------------
   1. clone the project
   `https://github.com/muskaankalra24/Transaction_Tracker.git`
-  2. Start the server `npm start` 
+  2.  `npm install` 
+  3. Start the server `npm start` 
  
 
